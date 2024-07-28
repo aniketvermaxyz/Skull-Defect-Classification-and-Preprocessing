@@ -1,0 +1,65 @@
+Image: defect3.jpg
+Pixel Intensity Statistics:
+Mean Intensity: 0.29312499818918747
+Standard Deviation: 0.1853748495340198
+
+Geometric Features:
+Number of Contours: 60
+
+Texture Analysis:
+Contrast: 145.54008884803923
+Energy: 0.19817003133449326
+Correlation: 0.9673125584735569
+Homogeneity: 0.5428188348567851
+Image: defect5.jpeg
+Pixel Intensity Statistics:
+Mean Intensity: 0.325243235372153
+Standard Deviation: 0.23481047841967878
+
+Geometric Features:
+Number of Contours: 1
+
+Texture Analysis:
+Contrast: 29.63256740196078
+Energy: 0.09395447904705358
+Correlation: 0.9958454992131222
+Homogeneity: 0.4827260276316604
+Image: defect2.jpeg
+Pixel Intensity Statistics:
+Mean Intensity: 0.16604885377233375
+Standard Deviation: 0.27899913307536356
+
+Geometric Features:
+Number of Contours: 38
+
+Texture Analysis:
+Contrast: 37.48258272058825
+Energy: 0.6195222893543909
+Correlation: 0.9962893336954758
+Homogeneity: 0.7278697676923005
+Image: defect4.jpg
+Pixel Intensity Statistics:
+Mean Intensity: 0.2575518047692729
+Standard Deviation: 0.2570363961582265
+
+Geometric Features:
+Number of Contours: 40
+
+Texture Analysis:
+Contrast: 155.84949448529412
+Energy: 0.24996586984270144
+Correlation: 0.9817984182887273
+Homogeneity: 0.37967730396290394
+Image: defect1.jpg
+Pixel Intensity Statistics:
+Mean Intensity: 0.20993694850440703
+Standard Deviation: 0.269305110280345
+
+Geometric Features:
+Number of Contours: 34
+
+Texture Analysis:
+Contrast: 30.061795343137256
+Energy: 0.4764270161393703
+Correlation: 0.9968019413622642
+Homogeneity: 0.6360309997427533
